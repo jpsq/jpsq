@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Pablo Saluzzo 🧉🧉🧉 </h1>
 <h3 align="center">Backend developer and a bachelor's degree student in information systems</h3>
 
-- I’m currently learning **Web scraping with Python and Selenium**
+- I’m currently learning **Machine Learning with Python**
 
 - My English level: <a href="https://www.efset.org/cert/dkvFCZ">EFT SCORE</a>
 
