@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Pablo Saluzzo 🧉🧉🧉 </h1>
 <h3 align="center">Backend developer and a bachelor's degree student in information systems</h3>
 
-- I’m currently learning **Cisco's Cybersecurity course**.
+- I’m currently learning **Cisco's Cybersecurity** course.
 
 - I'm currently learning a **introduction to network management** course.
 
