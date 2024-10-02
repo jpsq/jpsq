@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Juan Pablo Saluzzo 🧉🧉🧉 </h1>
 <h3 align="center">Backend developer and a bachelor's degree student in information systems</h3>
 
-- I’m currently learning **Cisco's Cybersecurity** course.
-
 - I'm currently learning a **introduction to network management** course.
 
-- Actually developing a **Flask API with SQLAlchemy** for chatbots.
+- Actually developing a multiple **Laravel systems**.
 
 - My English level: <a href="https://www.efset.org/cert/dkvFCZ">EFT SCORE</a>
 
@@ -25,12 +23,6 @@
   </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://dev.java/" target="_blank" rel="noreferrer"> 
-     <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" alt="java" width="40" height="40"/>
-    <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> 
-     <img src="https://w7.pngwing.com/pngs/579/803/png-transparent-the-c-programming-language-programmer-computer-programming-programming-blue-logo-computer-program-thumbnail.png" alt="c++" width="40" height="40"/> 
-  </a>
   </a>
   
 </p>
